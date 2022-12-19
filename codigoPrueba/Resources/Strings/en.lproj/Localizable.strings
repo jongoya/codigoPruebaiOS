@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  sae
+
+  Created by Mac Mini 5 on 3/6/22.
+  
+*/
+
+"menu_home"="Home";
+"menu_lineas"="Líneas";
+"menu_favoritos"="Favoritos";
+"menu_como"="Cómo llegar";
+"menu_mas"="Más";
+
+"home_text"="Soluciones tecnológicas para una movilidad inteligente";
+"home_buscar"="Busca paradas...";
+"home_cercanas"="Paradas cercanas";
